@@ -1,0 +1,535 @@
+{
+  "foods": [
+    {
+      "id": 101, "name_tr": "Tavuk Göğsü (haşlanmış)", "name": "Boiled Chicken Breast",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 165, "protein": 31.0, "carb": 0.0, "fat": 3.6, "fiber": 0.0},
+      "serving_g": 150
+    },
+    {
+      "id": 102, "name_tr": "Hindi Göğsü", "name": "Turkey Breast",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 135, "protein": 29.0, "carb": 0.0, "fat": 1.0, "fiber": 0.0},
+      "serving_g": 150
+    },
+    {
+      "id": 103, "name_tr": "Somon", "name": "Salmon",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 208, "protein": 20.0, "carb": 0.0, "fat": 13.0, "fiber": 0.0},
+      "serving_g": 150
+    },
+    {
+      "id": 104, "name_tr": "Ton Balığı (konserve, suda)", "name": "Canned Tuna",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch", "dinner", "snack"],
+      "per_100g": {"calories": 116, "protein": 25.5, "carb": 0.0, "fat": 0.8, "fiber": 0.0},
+      "serving_g": 100
+    },
+    {
+      "id": 105, "name_tr": "Dana Kıyma (az yağlı)", "name": "Lean Ground Beef",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 215, "protein": 26.0, "carb": 0.0, "fat": 12.0, "fiber": 0.0},
+      "serving_g": 150
+    },
+    {
+      "id": 106, "name_tr": "Yumurta (tam)", "name": "Whole Egg",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["breakfast", "lunch", "snack"],
+      "per_100g": {"calories": 155, "protein": 13.0, "carb": 1.1, "fat": 11.0, "fiber": 0.0},
+      "serving_g": 100
+    },
+    {
+      "id": 107, "name_tr": "Yumurta Beyazı", "name": "Egg White",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 52, "protein": 11.0, "carb": 0.7, "fat": 0.2, "fiber": 0.0},
+      "serving_g": 150
+    },
+    {
+      "id": 108, "name_tr": "Kırmızı Mercimek", "name": "Red Lentil",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 116, "protein": 9.0, "carb": 20.0, "fat": 0.4, "fiber": 8.0},
+      "serving_g": 200
+    },
+    {
+      "id": 109, "name_tr": "Nohut (haşlanmış)", "name": "Chickpea",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["lunch", "dinner", "snack"],
+      "per_100g": {"calories": 164, "protein": 8.9, "carb": 27.4, "fat": 2.6, "fiber": 7.6},
+      "serving_g": 150
+    },
+    {
+      "id": 110, "name_tr": "Siyah Fasulye (haşlanmış)", "name": "Black Bean",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "vegetarian", "vegan"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 132, "protein": 8.9, "carb": 23.7, "fat": 0.5, "fiber": 8.7},
+      "serving_g": 150
+    },
+    {
+      "id": 111, "name_tr": "Tofu", "name": "Tofu",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 76, "protein": 8.0, "carb": 1.9, "fat": 4.2, "fiber": 0.3},
+      "serving_g": 150
+    },
+    {
+      "id": 112, "name_tr": "Ezogelin Çorbası", "name": "Lentil Soup",
+      "category": "protein_source",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 68, "protein": 3.8, "carb": 11.2, "fat": 1.1, "fiber": 2.1},
+      "serving_g": 300
+    },
+    {
+      "id": 113, "name_tr": "Karides", "name": "Shrimp",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 99, "protein": 24.0, "carb": 0.2, "fat": 0.3, "fiber": 0.0},
+      "serving_g": 150
+    },
+    {
+      "id": 201, "name_tr": "Yulaf Ezmesi", "name": "Oatmeal",
+      "category": "carb_source",
+      "diets": ["balanced", "high_protein", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 389, "protein": 16.9, "carb": 66.3, "fat": 6.9, "fiber": 10.6},
+      "serving_g": 80
+    },
+    {
+      "id": 202, "name_tr": "Esmer Pirinç (pişmiş)", "name": "Brown Rice",
+      "category": "carb_source",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 123, "protein": 2.7, "carb": 25.6, "fat": 0.9, "fiber": 1.8},
+      "serving_g": 200
+    },
+    {
+      "id": 203, "name_tr": "Makarna (tam buğday, pişmiş)", "name": "Whole Wheat Pasta",
+      "category": "carb_source",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 157, "protein": 5.5, "carb": 30.9, "fat": 0.8, "fiber": 4.5},
+      "serving_g": 200
+    },
+    {
+      "id": 204, "name_tr": "Tam Buğday Ekmeği", "name": "Whole Wheat Bread",
+      "category": "carb_source",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["maintain", "bulk"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 247, "protein": 13.0, "carb": 41.0, "fat": 3.4, "fiber": 6.0},
+      "serving_g": 60
+    },
+    {
+      "id": 205, "name_tr": "Tatlı Patates (haşlanmış)", "name": "Sweet Potato",
+      "category": "carb_source",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 86, "protein": 1.6, "carb": 20.1, "fat": 0.1, "fiber": 3.0},
+      "serving_g": 200
+    },
+    {
+      "id": 206, "name_tr": "Kinoa (pişmiş)", "name": "Quinoa",
+      "category": "carb_source",
+      "diets": ["balanced", "high_protein", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 120, "protein": 4.4, "carb": 21.3, "fat": 1.9, "fiber": 2.8},
+      "serving_g": 200
+    },
+    {
+      "id": 207, "name_tr": "Patates (haşlanmış)", "name": "Boiled Potato",
+      "category": "carb_source",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 87, "protein": 1.9, "carb": 20.1, "fat": 0.1, "fiber": 1.8},
+      "serving_g": 200
+    },
+    {
+      "id": 208, "name_tr": "Mısır Gevreği (şekersiz)", "name": "Corn Flakes",
+      "category": "carb_source",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["breakfast"],
+      "per_100g": {"calories": 357, "protein": 7.5, "carb": 84.0, "fat": 0.4, "fiber": 2.0},
+      "serving_g": 50
+    },
+    {
+      "id": 301, "name_tr": "Brokoli", "name": "Broccoli",
+      "category": "vegetable",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 34, "protein": 2.8, "carb": 6.6, "fat": 0.4, "fiber": 2.6},
+      "serving_g": 200
+    },
+    {
+      "id": 302, "name_tr": "Ispanak", "name": "Spinach",
+      "category": "vegetable",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["breakfast", "lunch", "dinner"],
+      "per_100g": {"calories": 23, "protein": 2.9, "carb": 3.6, "fat": 0.4, "fiber": 2.2},
+      "serving_g": 150
+    },
+    {
+      "id": 303, "name_tr": "Domates", "name": "Tomato",
+      "category": "vegetable",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["breakfast", "lunch", "dinner", "snack"],
+      "per_100g": {"calories": 18, "protein": 0.9, "carb": 3.9, "fat": 0.2, "fiber": 1.2},
+      "serving_g": 150
+    },
+    {
+      "id": 304, "name_tr": "Salatalık", "name": "Cucumber",
+      "category": "vegetable",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "lunch", "snack"],
+      "per_100g": {"calories": 15, "protein": 0.7, "carb": 3.6, "fat": 0.1, "fiber": 0.5},
+      "serving_g": 150
+    },
+    {
+      "id": 305, "name_tr": "Kırmızı Biber", "name": "Red Bell Pepper",
+      "category": "vegetable",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["breakfast", "lunch", "dinner", "snack"],
+      "per_100g": {"calories": 31, "protein": 1.0, "carb": 6.0, "fat": 0.3, "fiber": 2.1},
+      "serving_g": 150
+    },
+    {
+      "id": 306, "name_tr": "Kabak", "name": "Zucchini",
+      "category": "vegetable",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 17, "protein": 1.2, "carb": 3.1, "fat": 0.3, "fiber": 1.0},
+      "serving_g": 200
+    },
+    {
+      "id": 307, "name_tr": "Havuç", "name": "Carrot",
+      "category": "vegetable",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch", "dinner", "snack"],
+      "per_100g": {"calories": 41, "protein": 0.9, "carb": 9.6, "fat": 0.2, "fiber": 2.8},
+      "serving_g": 150
+    },
+    {
+      "id": 308, "name_tr": "Avokado", "name": "Avocado",
+      "category": "vegetable",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["breakfast", "lunch", "snack"],
+      "per_100g": {"calories": 160, "protein": 2.0, "carb": 8.5, "fat": 14.7, "fiber": 6.7},
+      "serving_g": 100
+    },
+    {
+      "id": 309, "name_tr": "Patlıcan", "name": "Eggplant",
+      "category": "vegetable",
+      "diets": ["balanced", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 25, "protein": 1.0, "carb": 5.9, "fat": 0.2, "fiber": 3.0},
+      "serving_g": 200
+    },
+    {
+      "id": 310, "name_tr": "Yeşil Fasulye", "name": "Green Bean",
+      "category": "vegetable",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 31, "protein": 1.8, "carb": 7.1, "fat": 0.1, "fiber": 3.4},
+      "serving_g": 200
+    },
+    {
+      "id": 401, "name_tr": "Muz", "name": "Banana",
+      "category": "fruit",
+      "diets": ["balanced", "high_protein", "vegetarian", "vegan"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 89, "protein": 1.1, "carb": 22.8, "fat": 0.3, "fiber": 2.6},
+      "serving_g": 120
+    },
+    {
+      "id": 402, "name_tr": "Elma", "name": "Apple",
+      "category": "fruit",
+      "diets": ["balanced", "high_protein", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 52, "protein": 0.3, "carb": 13.8, "fat": 0.2, "fiber": 2.4},
+      "serving_g": 150
+    },
+    {
+      "id": 403, "name_tr": "Portakal", "name": "Orange",
+      "category": "fruit",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 47, "protein": 0.9, "carb": 11.8, "fat": 0.1, "fiber": 2.4},
+      "serving_g": 180
+    },
+    {
+      "id": 404, "name_tr": "Çilek", "name": "Strawberry",
+      "category": "fruit",
+      "diets": ["balanced", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 32, "protein": 0.7, "carb": 7.7, "fat": 0.3, "fiber": 2.0},
+      "serving_g": 150
+    },
+    {
+      "id": 405, "name_tr": "Yaban Mersini", "name": "Blueberry",
+      "category": "fruit",
+      "diets": ["balanced", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 57, "protein": 0.7, "carb": 14.5, "fat": 0.3, "fiber": 2.4},
+      "serving_g": 100
+    },
+    {
+      "id": 406, "name_tr": "Kivi", "name": "Kiwi",
+      "category": "fruit",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 61, "protein": 1.1, "carb": 14.7, "fat": 0.5, "fiber": 3.0},
+      "serving_g": 120
+    },
+    {
+      "id": 501, "name_tr": "Yoğurt (yağsız)", "name": "Non-fat Yogurt",
+      "category": "dairy",
+      "diets": ["balanced", "high_protein", "vegetarian"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 56, "protein": 10.2, "carb": 3.8, "fat": 0.4, "fiber": 0.0},
+      "serving_g": 200
+    },
+    {
+      "id": 502, "name_tr": "Süzme Yoğurt", "name": "Greek Yogurt",
+      "category": "dairy",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 97, "protein": 9.0, "carb": 3.6, "fat": 5.0, "fiber": 0.0},
+      "serving_g": 200
+    },
+    {
+      "id": 503, "name_tr": "Süt (yarım yağlı)", "name": "Semi-Skimmed Milk",
+      "category": "dairy",
+      "diets": ["balanced", "vegetarian"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 50, "protein": 3.4, "carb": 4.8, "fat": 1.6, "fiber": 0.0},
+      "serving_g": 250
+    },
+    {
+      "id": 504, "name_tr": "Lor Peyniri", "name": "Cottage Cheese",
+      "category": "dairy",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 98, "protein": 11.1, "carb": 3.4, "fat": 4.3, "fiber": 0.0},
+      "serving_g": 150
+    },
+    {
+      "id": 505, "name_tr": "Beyaz Peynir (az tuzlu)", "name": "White Cheese",
+      "category": "dairy",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 264, "protein": 14.2, "carb": 3.4, "fat": 21.0, "fiber": 0.0},
+      "serving_g": 60
+    },
+    {
+      "id": 506, "name_tr": "Kefir", "name": "Kefir",
+      "category": "dairy",
+      "diets": ["balanced", "vegetarian"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 61, "protein": 3.4, "carb": 4.8, "fat": 3.5, "fiber": 0.0},
+      "serving_g": 250
+    },
+    {
+      "id": 601, "name_tr": "Badem", "name": "Almond",
+      "category": "nut_fat",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 579, "protein": 21.2, "carb": 21.6, "fat": 49.9, "fiber": 12.5},
+      "serving_g": 30
+    },
+    {
+      "id": 602, "name_tr": "Ceviz", "name": "Walnut",
+      "category": "nut_fat",
+      "diets": ["balanced", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 654, "protein": 15.2, "carb": 13.7, "fat": 65.2, "fiber": 6.7},
+      "serving_g": 30
+    },
+    {
+      "id": 603, "name_tr": "Yer Fıstığı Ezmesi", "name": "Peanut Butter",
+      "category": "nut_fat",
+      "diets": ["balanced", "high_protein", "vegetarian", "vegan"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 588, "protein": 25.1, "carb": 20.0, "fat": 50.4, "fiber": 6.0},
+      "serving_g": 32
+    },
+    {
+      "id": 604, "name_tr": "Zeytinyağı", "name": "Olive Oil",
+      "category": "nut_fat",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 884, "protein": 0.0, "carb": 0.0, "fat": 100.0, "fiber": 0.0},
+      "serving_g": 10
+    },
+    {
+      "id": 605, "name_tr": "Chia Tohumu", "name": "Chia Seeds",
+      "category": "nut_fat",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 486, "protein": 16.5, "carb": 42.1, "fat": 30.7, "fiber": 34.4},
+      "serving_g": 20
+    },
+    {
+      "id": 701, "name_tr": "Peynirli Omlet", "name": "Cheese Omelette",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb", "vegetarian"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["breakfast"],
+      "per_100g": {"calories": 185, "protein": 13.5, "carb": 1.8, "fat": 14.2, "fiber": 0.0},
+      "serving_g": 200
+    },
+    {
+      "id": 702, "name_tr": "Protein Shake (whey)", "name": "Whey Protein Shake",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein"],
+      "goal_fit": ["cut", "bulk", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 120, "protein": 24.0, "carb": 3.0, "fat": 1.5, "fiber": 0.0},
+      "serving_g": 250
+    },
+    {
+      "id": 703, "name_tr": "Yulaf Bazlı Smoothie", "name": "Oat Smoothie",
+      "category": "carb_source",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["breakfast", "snack"],
+      "per_100g": {"calories": 82, "protein": 3.2, "carb": 14.5, "fat": 1.6, "fiber": 1.9},
+      "serving_g": 300
+    },
+    {
+      "id": 704, "name_tr": "Tavuk Salatası", "name": "Chicken Salad",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch"],
+      "per_100g": {"calories": 148, "protein": 16.5, "carb": 3.4, "fat": 7.8, "fiber": 1.2},
+      "serving_g": 250
+    },
+    {
+      "id": 705, "name_tr": "Ton Balıklı Salata", "name": "Tuna Salad",
+      "category": "protein_source",
+      "diets": ["balanced", "high_protein", "low_carb"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch"],
+      "per_100g": {"calories": 122, "protein": 15.2, "carb": 4.1, "fat": 4.8, "fiber": 1.5},
+      "serving_g": 250
+    },
+    {
+      "id": 706, "name_tr": "Pirinçli Tavuk (bütün)", "name": "Chicken with Rice",
+      "category": "balanced_meal",
+      "diets": ["balanced", "high_protein"],
+      "goal_fit": ["bulk", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 155, "protein": 13.0, "carb": 18.5, "fat": 3.2, "fiber": 0.8},
+      "serving_g": 300
+    },
+    {
+      "id": 707, "name_tr": "Mercimek Çorbası", "name": "Lentil Soup",
+      "category": "balanced_meal",
+      "diets": ["balanced", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 72, "protein": 4.5, "carb": 12.8, "fat": 0.8, "fiber": 3.5},
+      "serving_g": 350
+    },
+    {
+      "id": 708, "name_tr": "Sebzeli Kinoa Tabağı", "name": "Quinoa Veggie Bowl",
+      "category": "balanced_meal",
+      "diets": ["balanced", "high_protein", "vegetarian", "vegan"],
+      "goal_fit": ["cut", "maintain"],
+      "meal_types": ["lunch", "dinner"],
+      "per_100g": {"calories": 110, "protein": 5.2, "carb": 19.8, "fat": 1.8, "fiber": 3.2},
+      "serving_g": 300
+    }
+  ],
+  "diet_priority": {
+    "high_protein":  {"min_protein_pct": 35, "max_fat_pct": 25, "max_carb_pct": 40},
+    "low_carb":      {"min_protein_pct": 30, "max_fat_pct": 40, "max_carb_pct": 20},
+    "balanced":      {"min_protein_pct": 25, "max_fat_pct": 30, "max_carb_pct": 45},
+    "vegetarian":    {"min_protein_pct": 20, "max_fat_pct": 30, "max_carb_pct": 50},
+    "vegan":         {"min_protein_pct": 15, "max_fat_pct": 30, "max_carb_pct": 55}
+  },
+  "meal_distribution": {
+    "3": [
+      {"type": "breakfast", "name_tr": "Kahvaltı",      "time": "07:30", "ratio": 0.30},
+      {"type": "lunch",     "name_tr": "Öğle Yemeği",   "time": "12:30", "ratio": 0.40},
+      {"type": "dinner",    "name_tr": "Akşam Yemeği",  "time": "19:00", "ratio": 0.30}
+    ],
+    "4": [
+      {"type": "breakfast", "name_tr": "Kahvaltı",      "time": "07:30", "ratio": 0.25},
+      {"type": "snack",     "name_tr": "Kuşluk",        "time": "10:30", "ratio": 0.10},
+      {"type": "lunch",     "name_tr": "Öğle Yemeği",   "time": "12:30", "ratio": 0.35},
+      {"type": "dinner",    "name_tr": "Akşam Yemeği",  "time": "19:00", "ratio": 0.30}
+    ],
+    "5": [
+      {"type": "breakfast", "name_tr": "Kahvaltı",      "time": "07:30", "ratio": 0.25},
+      {"type": "snack",     "name_tr": "Kuşluk",        "time": "10:30", "ratio": 0.10},
+      {"type": "lunch",     "name_tr": "Öğle Yemeği",   "time": "12:30", "ratio": 0.30},
+      {"type": "snack",     "name_tr": "İkindi",        "time": "16:00", "ratio": 0.10},
+      {"type": "dinner",    "name_tr": "Akşam Yemeği",  "time": "19:00", "ratio": 0.25}
+    ]
+  }
+}

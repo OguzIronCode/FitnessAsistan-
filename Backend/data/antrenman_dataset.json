@@ -1,0 +1,5396 @@
+[
+    {
+        "kaynak_url": "https://barbend.com/best-treadmills-for-tall-runners/",
+        "program_adi": "Treadmill Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Treadmill Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Koşu",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                },
+                {
+                    "ad": "Kol Kırma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Kırma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Kırma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Knee Push-Up",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/omega-3-balik-yagi/",
+        "program_adi": "Fitness Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Fitness Antrenman Programı",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kaburgalar",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Bacak Kırma",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Kaldıraç",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Kollar",
+                    "set": 3,
+                    "tekrar": "12-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-kettlebells/",
+        "program_adi": "Kettlebell Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Kettlebell Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kettlebell Swing",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Goblet Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kettlebell Press",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Kettlebell Deadlift",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kettlebell Clean and Press",
+                    "set": 3,
+                    "tekrar": "8-10"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-adjustable-dumbbells/",
+        "program_adi": "Dumbbell Antrenmanı",
+        "program_detaylari": {
+            "program_adi": "Dumbbell Antrenmanı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Bench Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Row",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Lat Raise",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bicep Curl",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Goblet Squat",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Romanian Deadlift",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-compact-rowing-machines/",
+        "program_adi": "Küçük Kuvvetli Çekme Makineleri",
+        "program_detaylari": {
+            "program_adi": "Küçük Kuvvetli Çekme Makineleri",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kuvvetli Çekme Makinesi",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/kardiyo/",
+        "program_adi": "Kardiyo Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Kardiyo Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Burpees",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Manmakers",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "High Knees",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Mountain Climbers",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Lunge Jump Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Mule",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Burpees Jack Knife",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell Snatches",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-ellipticals-for-seniors/",
+        "program_adi": "Yüksek Kaliteli Elliptikler için Genel Program",
+        "program_detaylari": {
+            "program_adi": "Yüksek Kaliteli Elliptikler için Genel Program",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "NordicTrack AirGlide 14i",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                },
+                {
+                    "ad": "26 Düzeylik Direnç ve İklime Ayarlama",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                },
+                {
+                    "ad": "17.8-18.5 inç Uzunlukta Ayarlanabilir Yürüyüş Mesafesi",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                },
+                {
+                    "ad": "iFIT ile Erişilebilir 17,000'den Fazla Egzersiz Programı",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/bodybuilding-back-workout/",
+        "program_adi": "The Best Bodybuilding Back Workout",
+        "program_detaylari": {
+            "program_adi": "The Best Bodybuilding Back Workout",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Deadlift",
+                    "set": 3,
+                    "tekrar": "6"
+                },
+                {
+                    "ad": "Barbell Row",
+                    "set": 3,
+                    "tekrar": "6"
+                },
+                {
+                    "ad": "Assisted Pull-Up",
+                    "set": 2,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Face Pull",
+                    "set": 2,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-foam-rollers/",
+        "program_adi": "Foam Roller Egzersiz Programı",
+        "program_detaylari": {
+            "program_adi": "Foam Roller Egzersiz Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Trigger Point GRID Foam Roller Kullanımı",
+                    "set": 1,
+                    "tekrar": "2-3"
+                },
+                {
+                    "ad": "Rogue Foam Roller Kullanımı",
+                    "set": 1,
+                    "tekrar": "2-3"
+                },
+                {
+                    "ad": "Chirp Wheel Kullanımı",
+                    "set": 1,
+                    "tekrar": "2-3"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/treadmill-incline-workout/",
+        "program_adi": "Treadmill Incline Workouts",
+        "program_detaylari": {
+            "program_adi": "Treadmill Incline Workouts",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "HIIT Treadmill Incline Workouts",
+                    "set": 1,
+                    "tekrar": "5-10 minutes at an easy pace with no incline, 10 seconds of running on max incline, 50 seconds of slow walking with no incline"
+                },
+                {
+                    "ad": "Circuit Training",
+                    "set": 1,
+                    "tekrar": "Air Squat: 10 repetitions, Burpee: 10 repetitions, Mountain Climber: 20 total strides, Medicine Ball Slam: 10 repetitions, Incline Treadmill Sprint: 10 seconds all out, medium-to-high incline"
+                },
+                {
+                    "ad": "Steady-State Treadmill Incline Workouts",
+                    "set": 1,
+                    "tekrar": "5-10 minutes at an easy pace with no incline, 5 minutes @ 5% incline and 3.5 mph, 5 minutes @ 7.5% incline and 3.5 mph, 5 minutes @ 10% incline and 3.5 mph, 5 minutes @ 12.5% incline and 3.5 mph, 5-10 minutes at an easy pace with no incline"
+                },
+                {
+                    "ad": "Descending Steady-State Treadmill Workouts",
+                    "set": 1,
+                    "tekrar": "5-10 minutes at an easy pace with no incline, 5 minutes @ 12.5% incline and 3.5 mph, 5 minutes @ 10% incline and 3.5 mph, 5 minutes @ 7.5% incline and 3.5 mph, 5 minutes @ 5% incline and 3.5 mph, 5-10 minutes at an easy pace with no incline"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-massage-chairs/",
+        "program_adi": "Post-Workout Recovery",
+        "program_detaylari": {
+            "program_adi": "Post-Workout Recovery",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Masaj Koltuğu Kullanımı",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/supplement/",
+        "program_adi": "Fitness Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Fitness Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kreatin Kullanımı",
+                    "set": 1,
+                    "tekrar": "Düzenli"
+                },
+                {
+                    "ad": "ZMA (Çinko ve Magnezyum) Kullanımı",
+                    "set": 1,
+                    "tekrar": "Düzenli"
+                },
+                {
+                    "ad": "Omega-3 Balık Yağı Kullanımı",
+                    "set": 1,
+                    "tekrar": "Günde 2-3 Kaplama"
+                },
+                {
+                    "ad": "Probiyotik Supplementler Kullanımı",
+                    "set": 1,
+                    "tekrar": "Günde 1-2 Kaplama"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/blog/",
+        "program_adi": "Yeni Başlayanlar için Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Yeni Başlayanlar için Fitness Programı",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kol Bantları ile Omuz Geriye Dönüş",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Dambıl Kollar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Öne Yüksek Hareketi",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Kabartma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dambıl Omuz Kaldırma",
+                    "set": 3,
+                    "tekrar": "12-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/vucut-yag-orani-hesaplama/",
+        "program_adi": "Yağ Oranı Düşürme Programı",
+        "program_detaylari": {
+            "program_adi": "Yağ Oranı Düşürme Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kardiyo Egzersizi",
+                    "set": 3,
+                    "tekrar": "30-45 dakika"
+                },
+                {
+                    "ad": "Ateşli Kuvvet Antrenmanı",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Yüksek Yoğunluklu Interval Antrenman (HIIT)",
+                    "set": 3,
+                    "tekrar": "20-30 dakika"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-resistance-bands/",
+        "program_adi": "Resistance Band Egzersiz Programı",
+        "program_detaylari": {
+            "program_adi": "Resistance Band Egzersiz Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Chest Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Rows",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Lower Body Donkey Kicks",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/german-volume-training/",
+        "program_adi": "German Volume Training (GVT)",
+        "program_detaylari": {
+            "program_adi": "German Volume Training (GVT)",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Decline Dumbbell Bench Press",
+                    "set": 10,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Chin-Up",
+                    "set": 10,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Incline Dumbbell Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "One-Arm Dumbbell Row",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Back Squat",
+                    "set": 10,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Lying Leg Curl",
+                    "set": 10,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "*Low-Cable Pull-In",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "One-Arm Dumbbell Row",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/kategori/egzersizler/",
+        "program_adi": "Kalça Kasları İçin En İyi Egzersizler",
+        "program_detaylari": {
+            "program_adi": "Kalça Kasları İçin En İyi Egzersizler",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Glute Bridge",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Lunges",
+                    "set": 3,
+                    "tekrar": "10-12 her ayak için"
+                },
+                {
+                    "ad": "Calf Raises",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Sumo Squat",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-shoulder-exercises/",
+        "program_adi": "Omuz Egzersizleri ve Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Omuz Egzersizleri ve Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Barbell Overhead Press",
+                    "set": 3,
+                    "tekrar": "4-6"
+                },
+                {
+                    "ad": "Dumbbell Shoulder Press",
+                    "set": 3,
+                    "tekrar": "8-12"
+                },
+                {
+                    "ad": "Arnold Press",
+                    "set": 3,
+                    "tekrar": "8-12"
+                },
+                {
+                    "ad": "Push Press",
+                    "set": 2,
+                    "tekrar": "3-5"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-lifting-gloves/",
+        "program_adi": "Kol Desteği ve Güç Artışı",
+        "program_detaylari": {
+            "program_adi": "Kol Desteği ve Güç Artışı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Deadlift",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Chin Up",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-folding-exercise-bikes/",
+        "program_adi": "Folding Exercise Bike Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Folding Exercise Bike Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Koltuk Yüksekliği Ayarı",
+                    "set": 1,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Yan Yön Hareketleri",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Bacak Kıvrımı",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kolların Geriye Döndürülmesi",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-vertical-climbers/",
+        "program_adi": "Vertical Climber Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Vertical Climber Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Vertical Climber",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Knee Push-Up",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Push-Up",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Dips",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Plank",
+                    "set": 3,
+                    "tekrar": "30-60"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-recumbent-bikes/",
+        "program_adi": "Recumbent Bikes Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Recumbent Bikes Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Knee Raise",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Leg Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Seated Row",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Cable Flyes",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Bicep Curls",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Tricep Dips",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/bench-press-ve-sinav/",
+        "program_adi": "Bench Press, Şınav ve Overhead Press Rehberi",
+        "program_detaylari": {
+            "program_adi": "Bench Press, Şınav ve Overhead Press Rehberi",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Şınav",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-weight-benches/",
+        "program_adi": "Evde Kullanılabilir Aletler İle Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Evde Kullanılabilir Aletler İle Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Küçük Ayaklı Düşme",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omurga Bükülmesi",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kolları Yüksekten Çekme",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kolları Düşükten Çekme",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Kırma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/kategori/antrenman",
+        "program_adi": "Evde Spor Programı",
+        "program_detaylari": {
+            "program_adi": "Evde Spor Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Sırt Çarpan",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kollar Döngüsü",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Kırma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kardiyo (Koşu veya Yürüyüş)",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/overhead-press/",
+        "program_adi": "Overhead Press",
+        "program_detaylari": {
+            "program_adi": "Overhead Press",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Barbell Overhead Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell Overhead Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Push Press",
+                    "set": 3,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Shoulder Pin Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-under-desk-ellipticals/",
+        "program_adi": "Ofis İçin Kardiyo Antrenmanı",
+        "program_detaylari": {
+            "program_adi": "Ofis İçin Kardiyo Antrenmanı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "DeskCycle2",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Jfit Mini Elliptical",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "LifePro FlexStride Plus Under-Desk Elliptical",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/etiket/antrenman/",
+        "program_adi": "5×5, 3×5 ve Ağırsağlam Atlet Programı",
+        "program_detaylari": {
+            "program_adi": "5×5, 3×5 ve Ağırsağlam Atlet Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Deadlift",
+                    "set": 5,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 5,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 5,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 5,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Pull-up",
+                    "set": 3,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Push-up",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bent Over Row",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Dumbbell Shoulder Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Leg Curl",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-speed-sleds/",
+        "program_adi": "Speed Sled Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Speed Sled Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Pull veya çek sled",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Çekme ile sled",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Sled ile sürüş",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-weightlifting-apps/",
+        "program_adi": "AI Öğretimli Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "AI Öğretimli Antrenman Programı",
+            "hedef_kitle": "Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kaldırma",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Düşme",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Yukarı Kaldırma",
+                    "set": 5,
+                    "tekrar": "6-8"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-budget-rowing-machines/",
+        "program_adi": "Karbon Dioksit Emmeçözümlü Egzersiz Programı",
+        "program_detaylari": {
+            "program_adi": "Karbon Dioksit Emmeçözümlü Egzersiz Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Karbon Dioksit Emmeçözümlü Kuvvet Antrenmanı",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Karbon Dioksit Emmeçözümlü Dayanıklılık Antrenmanı",
+                    "set": 4,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/news/",
+        "program_adi": "Genel Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Genel Fitness Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kaburgalar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Kırma",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Kaldırma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kollar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Göbek Egzersizleri",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-running-apps/",
+        "program_adi": "Treadmill Running Program",
+        "program_detaylari": {
+            "program_adi": "Treadmill Running Program",
+            "hedef_kitle": "All levels",
+            "egzersizler": [
+                {
+                    "ad": "Warmup",
+                    "set": 1,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Running",
+                    "set": 30,
+                    "tekrar": "Continuous"
+                },
+                {
+                    "ad": "Cool Down",
+                    "set": 1,
+                    "tekrar": "5-7"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/antrenman-rehberi/",
+        "program_adi": "Ağırsağlam Antrenman Piramidi",
+        "program_detaylari": {
+            "program_adi": "Ağırsağlam Antrenman Piramidi",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Doğru Egzersiz, Teknik ve Postür",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Devamlılık",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Antrenman Sıklığı ve Yoğunluğu",
+                    "set": 5,
+                    "tekrar": "8-12"
+                },
+                {
+                    "ad": "Periyodizasyon",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "İleri Antrenman Teknikleri",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/etiket/yag-yakma/",
+        "program_adi": "5×5 Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "5×5 Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 5,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 5,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 5,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 5,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Pull-up",
+                    "set": 5,
+                    "tekrar": "5-7"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-supplement-stacks/",
+        "program_adi": "Momentous Athletic Resilience Bundle",
+        "program_detaylari": {
+            "program_adi": "Momentous Athletic Resilience Bundle",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Grass-Fed Whey Protein",
+                    "set": 1,
+                    "tekrar": "20g"
+                },
+                {
+                    "ad": "Recovery",
+                    "set": 1,
+                    "tekrar": "20g protein ve 10g karbonhidrat"
+                },
+                {
+                    "ad": "Collagen Peptides",
+                    "set": 1,
+                    "tekrar": "10g"
+                },
+                {
+                    "ad": "Magnesium Threonate",
+                    "set": 1,
+                    "tekrar": "Dozaj belirtilmemiş"
+                },
+                {
+                    "ad": "Zinc Picolinate",
+                    "set": 1,
+                    "tekrar": "Dozaj belirtilmemiş"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-curved-treadmills/",
+        "program_adi": "Kurvo Treadmill Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Kurvo Treadmill Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Koşu",
+                    "set": 3,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Yürüyüş",
+                    "set": 2,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Knee Push-Up",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Glute Bridge",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Plank",
+                    "set": 2,
+                    "tekrar": "30-60"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/bench-press/",
+        "program_adi": "Bench Press",
+        "program_detaylari": {
+            "program_adi": "Bench Press",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Incline Bench Press",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Pin Press",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Barbell Floor Press",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Dumbbell Bench Press",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Push-Up",
+                    "set": null,
+                    "tekrar": null
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/beginner-push-up-program/",
+        "program_adi": "One-Month Push-Up Workout Plan",
+        "program_detaylari": {
+            "program_adi": "One-Month Push-Up Workout Plan",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Assisted Push-Up",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Assisted Tempo Push-Up",
+                    "set": 2,
+                    "tekrar": "6"
+                },
+                {
+                    "ad": "Decline Push-Up",
+                    "set": 3,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Extended Plank",
+                    "set": 4,
+                    "tekrar": "20 saniye"
+                },
+                {
+                    "ad": "Assisted Close-Grip Push-Up",
+                    "set": 4,
+                    "tekrar": "8"
+                },
+                {
+                    "ad": "Half Range of Motion Push-Up",
+                    "set": 2,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Bodyweight Skull Crusher",
+                    "set": 3,
+                    "tekrar": "8"
+                },
+                {
+                    "ad": "Up and Down Plank",
+                    "set": 3,
+                    "tekrar": "10-20 reps"
+                },
+                {
+                    "ad": "Wide-Grip Assisted Push-Up",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Assisted Pause to Dead-Stop Push-Up",
+                    "set": 3,
+                    "tekrar": "5"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/cable-biceps-workouts/",
+        "program_adi": "Best Cable Biceps Workouts",
+        "program_detaylari": {
+            "program_adi": "Best Cable Biceps Workouts",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Cable Biceps Workout for Advanced Lifters",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Reverse Grip Cable Curl",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Cable Rope Supinating Curl",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Single-Arm Facing-Away Cable Curl",
+                    "set": 3,
+                    "tekrar": "12 per side"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/fitness-beslenme-sporcu-beslenmesi/",
+        "program_adi": "Kas Geliştirme ve Yağ Yakma Programı",
+        "program_detaylari": {
+            "program_adi": "Kas Geliştirme ve Yağ Yakma Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Sırt Çekme",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Kaldırma",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Kolların Arka Kısımları Çekme",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Kaldırma",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Öne Kaldırma",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/hiit-workouts/",
+        "program_adi": "The Best HIIT Workouts for Any Fitness Goal",
+        "program_detaylari": {
+            "program_adi": "The Best HIIT Workouts for Any Fitness Goal",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "HIIT Workout For Strength",
+                    "set": 5,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "HIIT Workout For Muscle Growth",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "HIIT Workout For Endurance",
+                    "set": 5,
+                    "tekrar": "10-20"
+                },
+                {
+                    "ad": "HIIT Workout For Conditioning",
+                    "set": 5,
+                    "tekrar": "10-30"
+                },
+                {
+                    "ad": "HIIT Workout For Fat Loss",
+                    "set": 5,
+                    "tekrar": "5-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/treadmill-workouts-for-weight-loss/",
+        "program_adi": "The Best Treadmill Workouts for Weight Loss",
+        "program_detaylari": {
+            "program_adi": "The Best Treadmill Workouts for Weight Loss",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Low-Intensity Steady-State",
+                    "set": 1,
+                    "tekrar": "20-60 dakika"
+                },
+                {
+                    "ad": "Incline Steady-State Walking",
+                    "set": 1,
+                    "tekrar": "15-30 dakika"
+                },
+                {
+                    "ad": "Incline Pyramid",
+                    "set": 1,
+                    "tekrar": "10, 5, 5, 5, 5, 2, 2, 1 dakika"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-under-desk-treadmills/",
+        "program_adi": "Ofis İçin Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Ofis İçin Fitness Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Yürüyüş",
+                    "set": 3,
+                    "tekrar": "10-15 dakika"
+                },
+                {
+                    "ad": "Kol Abdulasyon Egzersizi",
+                    "set": 2,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Bacak Kaldırma Egzersizi",
+                    "set": 2,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Omuz Çekme Egzersizi",
+                    "set": 2,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Kardiyo Egzersizi (Yürüyüş veya Koşu)",
+                    "set": 1,
+                    "tekrar": "20-30 dakika"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/etiket/yeni-baslayanlar-icin/",
+        "program_adi": "Evde Spor Programı",
+        "program_detaylari": {
+            "program_adi": "Evde Spor Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barfiks",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bent Over Barbell Row",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-agility-ladders/",
+        "program_adi": "Agility Ladder Antrenmanı",
+        "program_detaylari": {
+            "program_adi": "Agility Ladder Antrenmanı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Agility Ladder Kullanımı",
+                    "set": 3,
+                    "tekrar": "30-40"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-at-home-bodyweight-workouts/",
+        "program_adi": "Build Muscle Anywhere With the Best At-Home Bodyweight Workouts",
+        "program_detaylari": {
+            "program_adi": "Build Muscle Anywhere With the Best At-Home Bodyweight Workouts",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Leg Day",
+                    "set": 2,
+                    "tekrar": "400"
+                },
+                {
+                    "ad": "Push Day",
+                    "set": 4,
+                    "tekrar": "80"
+                },
+                {
+                    "ad": "The 'Core Clock' Workout",
+                    "set": 3,
+                    "tekrar": "1-2-3-...-12"
+                },
+                {
+                    "ad": "Pull Day",
+                    "set": 4,
+                    "tekrar": "70"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/squat-calculator/",
+        "program_adi": "Current 1RM Smolov Program",
+        "program_detaylari": {
+            "program_adi": "Current 1RM Smolov Program",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Lunges",
+                    "set": 2,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Stretching",
+                    "set": 1,
+                    "tekrar": "40-50"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Lunges",
+                    "set": 2,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Stretching",
+                    "set": 1,
+                    "tekrar": "40-50"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "9-10"
+                },
+                {
+                    "ad": "Lunges",
+                    "set": 5,
+                    "tekrar": "7-8"
+                },
+                {
+                    "ad": "Stretching",
+                    "set": 1,
+                    "tekrar": "40-50"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "9-10"
+                },
+                {
+                    "ad": "Lunges",
+                    "set": 5,
+                    "tekrar": "7-8"
+                },
+                {
+                    "ad": "Stretching",
+                    "set": 1,
+                    "tekrar": "40-50"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-commercial-stair-climbers/",
+        "program_adi": "Stair Climber Antrenmanı",
+        "program_detaylari": {
+            "program_adi": "Stair Climber Antrenmanı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Yürüme",
+                    "set": 30,
+                    "tekrar": "1-2"
+                },
+                {
+                    "ad": "Küçük Adımlarla Yürüyüş",
+                    "set": 15,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Geniş Adımlarla Yürüyüş",
+                    "set": 15,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Yüksek Kuvvetli Yürüyüş",
+                    "set": 10,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Küçük Adımlarla Tırmanış",
+                    "set": 15,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Geniş Adımlarla Tırmanış",
+                    "set": 15,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/back-squat/",
+        "program_adi": "Back Squat",
+        "program_detaylari": {
+            "program_adi": "Back Squat",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Back Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-biceps-exercises/",
+        "program_adi": "Bicep Workouts for Strength",
+        "program_detaylari": {
+            "program_adi": "Bicep Workouts for Strength",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Preacher Curl",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Hammer Curl",
+                    "set": 3,
+                    "tekrar": "6-10"
+                },
+                {
+                    "ad": "Bayesian Curl",
+                    "set": 2,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Zottman Curl",
+                    "set": 2,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Concentration Curl",
+                    "set": 2,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/programs/",
+        "program_adi": "BarBend Fitness Programs",
+        "program_detaylari": {
+            "program_adi": "BarBend Fitness Programs",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Bodybuilding vs. Powerlifting Programs",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Should You Try the 75 Hard Challenge?",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Brandon Lilly’s Cube Method",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The One-Month-Long Beginner Pull-Up Program",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Programming tips",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "3 Best Muscle-Up Progressions (Beginner Friendly Guide!)",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "3 Crucial Tips for Using Speed Work In Powerlifting",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "3 Epic Push-Up Challenges to Test Your Fitness",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "3 Keys to the Perfect Weightlifting Workout Program (Partnership with TrainingIQ)",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Jim Wendler’s 5/3/1 Workout Program, Explained",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best All-Around Kettlebell Training Program",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Bodybuilding Programs for All Experience Levels",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Powerbuilding Guide and Program (Brought to You by Gravitus)",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "More programming articles",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Is Your Training Feeling Stale? It’s Time to Back Off and Re-Evaluate Your Approach",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "8 Powerbuilding Program Benefits: Strength, Muscle, Focus, and More",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "5 Steps to Effective Remote Individual Program Design",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "So You Wanna Be A Powerlifter? Programming for a Meet",
+                    "set": null,
+                    "tekrar": null
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/powerlifting/",
+        "program_adi": "Powerlifting Programı",
+        "program_detaylari": {
+            "program_adi": "Powerlifting Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/training-guides/",
+        "program_adi": "Genel Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Genel Fitness Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kabulümler",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Sırt Çapraz Yüklenme",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Öne Yüklenme",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kollar Düz Yüklenme",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/full-body-bodybuilding-workout/",
+        "program_adi": "The Best Full-Body Bodybuilding Workout",
+        "program_detaylari": {
+            "program_adi": "The Best Full-Body Bodybuilding Workout",
+            "hedef_kitle": "Beginner to Advanced Lifters",
+            "egzersizler": [
+                {
+                    "ad": "Deadlift",
+                    "set": 3,
+                    "tekrar": "6"
+                },
+                {
+                    "ad": "Box Squat",
+                    "set": 3,
+                    "tekrar": "8"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 3,
+                    "tekrar": "8"
+                },
+                {
+                    "ad": "Barbell Row",
+                    "set": 3,
+                    "tekrar": "8"
+                },
+                {
+                    "ad": "Chin-Up",
+                    "set": 2,
+                    "tekrar": "12-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-functional-trainers/",
+        "program_adi": "Functional Trainer Kullanımı",
+        "program_detaylari": {
+            "program_adi": "Functional Trainer Kullanımı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Lat Pulldowns",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Overhead Presses",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Biceps Curls",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/full-body-dumbbell-workouts/",
+        "program_adi": "Full-Body Dumbbell Workout for Strength",
+        "program_detaylari": {
+            "program_adi": "Full-Body Dumbbell Workout for Strength",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Dumbbell Front Squat",
+                    "set": 4,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Dumbbell Bench Press",
+                    "set": 4,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Dumbbell Deadlift",
+                    "set": 4,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Dumbbell Overhead Press",
+                    "set": 4,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Dumbbell Snatch",
+                    "set": 4,
+                    "tekrar": "4 per side + 30 seconds"
+                },
+                {
+                    "ad": "Dumbbell Farmer’s Carry",
+                    "set": 4,
+                    "tekrar": "30 seconds"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/mass-gainers/",
+        "program_adi": "Mass Gainer Programı",
+        "program_detaylari": {
+            "program_adi": "Mass Gainer Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kaburgalar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Kırıcılar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Öne Yüksek Hafif Düzenli",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Arka Yüksek Hafif Düzenli",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Göbek Kırıcılar",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/bodybuilding-arm-workout/",
+        "program_adi": "Best Bodybuilding Arm Workout",
+        "program_detaylari": {
+            "program_adi": "Best Bodybuilding Arm Workout",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Machine Preacher Curl",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Machine Triceps Dip",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable Biceps Curl",
+                    "set": 3,
+                    "tekrar": "15"
+                },
+                {
+                    "ad": "Single-Arm Cable Overhead Triceps Extension",
+                    "set": 3,
+                    "tekrar": "15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-adjustable-kettlebells/",
+        "program_adi": "Kettlebell Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Kettlebell Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Snatch",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Goblet Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Get-Up",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Swing",
+                    "set": 5,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/kettlebell-endurance-workouts/",
+        "program_adi": "Endurance-Boosting Kettlebell Circuit",
+        "program_detaylari": {
+            "program_adi": "Endurance-Boosting Kettlebell Circuit",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "EMOM Swings",
+                    "set": 1,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Alternating EMOM Swings and Forearm Planks",
+                    "set": 4,
+                    "tekrar": "15-30"
+                },
+                {
+                    "ad": "Kettlebell Cleans and Snatches (Left Side)",
+                    "set": 1,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Kettlebell Snatches (Left Side)",
+                    "set": 1,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Kettlebell Cleans (Right Side)",
+                    "set": 1,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Kettlebell Snatches (Right Side)",
+                    "set": 1,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Alternating Swing AMRAP",
+                    "set": 1,
+                    "tekrar": "As Many Reps As Possible"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-air-bikes/",
+        "program_adi": "Air Bike Antrenmanı",
+        "program_detaylari": {
+            "program_adi": "Air Bike Antrenmanı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Air Bike",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-weighted-vests/",
+        "program_adi": "Küçük Ağırlıklı Giyim ile Antrenman",
+        "program_detaylari": {
+            "program_adi": "Küçük Ağırlıklı Giyim ile Antrenman",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Ateş Topu",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Kabaca Kollar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Çapraz Yüklenme",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Geriye Dönüşü",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Kabaca Kollar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/hypertrophy/",
+        "program_adi": "Muscle Hypertrophy Program",
+        "program_detaylari": {
+            "program_adi": "Muscle Hypertrophy Program",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Pull-up",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-carbs-for-bodybuilding/",
+        "program_adi": "Bodybuilding Besinleri",
+        "program_detaylari": {
+            "program_adi": "Bodybuilding Besinleri",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Rice",
+                    "set": 1,
+                    "tekrar": "100-150g"
+                },
+                {
+                    "ad": "Pasta",
+                    "set": 1,
+                    "tekrar": "100-150g"
+                },
+                {
+                    "ad": "Bread",
+                    "set": 2,
+                    "tekrar": "50-75g"
+                },
+                {
+                    "ad": "Oats",
+                    "set": 1,
+                    "tekrar": "1/2 cup"
+                },
+                {
+                    "ad": "Cereal",
+                    "set": 1,
+                    "tekrar": "1 bowl"
+                },
+                {
+                    "ad": "Quinoa",
+                    "set": 1,
+                    "tekrar": "1/2 cup"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-pull-up-assist-bands/",
+        "program_adi": "Pull-Up Assist Band Egzersizleri",
+        "program_detaylari": {
+            "program_adi": "Pull-Up Assist Band Egzersizleri",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Pull-Up (Yüksek Asistan)",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Assisted Pull-Up (Küçük Asistan)",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Assisted Pull-Up (Orta Asistan)",
+                    "set": 3,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Assisted Pull-Up (Düşük Asistan)",
+                    "set": 3,
+                    "tekrar": "4-6"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-rear-drive-ellipticals/",
+        "program_adi": "Elliptical Egzersiz Programı",
+        "program_detaylari": {
+            "program_adi": "Elliptical Egzersiz Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kol Döngüsü",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Omuz Kaldırma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Kısaltma",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Knee Push-Up",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Yoga Hareketleri",
+                    "set": 2,
+                    "tekrar": "30 saniye"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/kategori/hesaplama",
+        "program_adi": "Yeni Başlayanlar için Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Yeni Başlayanlar için Fitness Programı",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kaburgalar",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Bacak Kırma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Kaldırma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kollar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-smith-machines/",
+        "program_adi": "Home Gym Smith Machine Workout",
+        "program_detaylari": {
+            "program_adi": "Home Gym Smith Machine Workout",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 5,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bent Over Row",
+                    "set": 3,
+                    "tekrar": "8-10"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-slam-balls/",
+        "program_adi": "Slam Ball Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Slam Ball Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Wall Toss",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Overhead Slam",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Russian Twists",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Partner Drill",
+                    "set": 2,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-cycling-apps/",
+        "program_adi": "Bike Workout",
+        "program_detaylari": {
+            "program_adi": "Bike Workout",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Sprint",
+                    "set": 3,
+                    "tekrar": "30 saniye"
+                },
+                {
+                    "ad": "Yavaş Pedalama",
+                    "set": 2,
+                    "tekrar": "1 dakika"
+                },
+                {
+                    "ad": "Hızlı Pedalama",
+                    "set": 2,
+                    "tekrar": "1 dakika"
+                },
+                {
+                    "ad": "Durma ve Kalkma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/kategori/yasam",
+        "program_adi": "Yeni Başlayanlar için Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Yeni Başlayanlar için Fitness Programı",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kaburgalar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Kaldırma",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Öne Yükseklenme",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kolları Geri Döndürme",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-exercise-bikes/",
+        "program_adi": "NordicTrack X24 Bike",
+        "program_detaylari": {
+            "program_adi": "NordicTrack X24 Bike",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "X24 Bike Kullanımı",
+                    "set": 1,
+                    "tekrar": "Kullanım Süresi: 30 dakika"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-dip-belts/",
+        "program_adi": "Dip Egzersizi",
+        "program_detaylari": {
+            "program_adi": "Dip Egzersizi",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Dip",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-quad-exercises/",
+        "program_adi": "16 Best Quad Exercises",
+        "program_detaylari": {
+            "program_adi": "16 Best Quad Exercises",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Front Squat",
+                    "set": 3,
+                    "tekrar": "4-10"
+                },
+                {
+                    "ad": "Heel-Elevated Back Squat",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Goblet Squat",
+                    "set": 3,
+                    "tekrar": "8-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/workouts/",
+        "program_adi": "The Best Bodybuilding Shoulder Workout",
+        "program_detaylari": {
+            "program_adi": "The Best Bodybuilding Shoulder Workout",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "BarBendSkip",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Bodybuilding Back Workout",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Bodybuilding Arm Workout",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Crossfit Workouts",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The CrossFit Karen Workout",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best CrossFit Workouts for Beginners",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "How to Design CrossFit Workouts for Speed and Power",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Treadmill workouts",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best 5 Treadmill Walking Workouts",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Treadmill Incline Workouts for Climbing",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Treadmill Workouts for Weight Loss",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "KettleBell workouts",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "5 Kettlebell Circuits That Will Maximize Your Endurance",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Full-Body Kettlebell Workout",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Kettlebell Strength Workout",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Kettlebell Workouts for Strength, Muscle Mass, Beginners",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "dumbbell Workouts",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Dumbbell Ab Workout",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "5 Full-Body Dumbbell Workouts for All Lifters",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Dumbbell Chest Workouts for Beginners",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Cable Workouts",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "The Best Cable Leg Workouts to Build Lower Body Muscle and Strength",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Try These Cable Biceps Workouts for Different Experience Levels",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Bodyweight workouts",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Build Muscle Anywhere With the Best At-Home Bodyweight Workouts",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "20 Weights-Free Exercises to Help Your Deadlift Strength",
+                    "set": null,
+                    "tekrar": null
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/kategori/egzersizler",
+        "program_adi": "Kalça Kasları İçin En İyi Egzersizler",
+        "program_detaylari": {
+            "program_adi": "Kalça Kasları İçin En İyi Egzersizler",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Glute Bridge",
+                    "set": 4,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Lunges",
+                    "set": 3,
+                    "tekrar": "12-15 her ayak için"
+                },
+                {
+                    "ad": "Sumo Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Calf Raises",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/build-workout-program/",
+        "program_adi": "Kişisel Fitness Planı",
+        "program_detaylari": {
+            "program_adi": "Kişisel Fitness Planı",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kolların Gücü",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuzların Gücü",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Göğsün Gücü",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacakların Gücü",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-affordable-stair-climbers/",
+        "program_adi": "Kardiyo Antrenmanı",
+        "program_detaylari": {
+            "program_adi": "Kardiyo Antrenmanı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Merdiven Çıkarma",
+                    "set": 3,
+                    "tekrar": "30-45"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-budget-treadmills/",
+        "program_adi": "Horizon 7.0 AT Treadmill",
+        "program_detaylari": {
+            "program_adi": "Horizon 7.0 AT Treadmill",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Walking",
+                    "set": 1,
+                    "tekrar": "30-45"
+                },
+                {
+                    "ad": "Running",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Incline Training",
+                    "set": 2,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-kettlebell-workouts/",
+        "program_adi": "Kettlebell Workout for Strength",
+        "program_detaylari": {
+            "program_adi": "Kettlebell Workout for Strength",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Double Kettlebell Goblet Squat",
+                    "set": 4,
+                    "tekrar": "5-8"
+                },
+                {
+                    "ad": "Alternating Kettlebell Floor Press",
+                    "set": 4,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Front-Rack 1 ½ Rep Bulgarian Split Squat",
+                    "set": 3,
+                    "tekrar": "6-8 per side"
+                },
+                {
+                    "ad": "Kettlebell Suitcase Deadlift",
+                    "set": 3,
+                    "tekrar": "8-10 per side"
+                },
+                {
+                    "ad": "One-Arm Kettlebell Row",
+                    "set": 4,
+                    "tekrar": "8-10 per side"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/dumbbell-chest-workouts/",
+        "program_adi": "Kol Omuz Egzersizleri",
+        "program_detaylari": {
+            "program_adi": "Kol Omuz Egzersizleri",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Düz Yataklı Dambıl Pres",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Yükseltilmiş Yataklı Dambıl Pres",
+                    "set": 3,
+                    "tekrar": "8-12"
+                },
+                {
+                    "ad": "Aşağı Yataklı Dambıl Pres",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Dip",
+                    "set": 2,
+                    "tekrar": "12-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-plyometric-boxes/",
+        "program_adi": "Plyometric Box Egzersizleri",
+        "program_detaylari": {
+            "program_adi": "Plyometric Box Egzersizleri",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Box Jumps",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Burpee Box Jump-Overs",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Elevated Plyometric Push-Ups",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/strongman/",
+        "program_adi": "Strongman Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Strongman Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Log Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Atlas Stones",
+                    "set": 3,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Farmer’s Walk",
+                    "set": 3,
+                    "tekrar": "30-40m"
+                },
+                {
+                    "ad": "Front Hold",
+                    "set": 4,
+                    "tekrar": "10-15s"
+                },
+                {
+                    "ad": "Max Deadlift",
+                    "set": 5,
+                    "tekrar": "1RM"
+                },
+                {
+                    "ad": "Sandbag Medley",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Flintstone Barbell",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Super Yoke",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Hercules Hold",
+                    "set": 3,
+                    "tekrar": "30-40s"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-manual-treadmills/",
+        "program_adi": "Evde Manüel Koşu Bandı Antrenmanı",
+        "program_detaylari": {
+            "program_adi": "Evde Manüel Koşu Bandı Antrenmanı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Koşu",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Yürüyüş",
+                    "set": 2,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Arka Döngü Hareketleri",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kol Döngü Hareketleri",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/bodybuilding-chest-and-back-workouts/",
+        "program_adi": "Chest Hypertrophy Program",
+        "program_detaylari": {
+            "program_adi": "Chest Hypertrophy Program",
+            "hedef_kitle": "Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Incline Dumbbell Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable Flyes",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Dumbbell Flyes",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Pec Deck Machine",
+                    "set": 3,
+                    "tekrar": "12-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/bodybuilding-shoulder-workout/",
+        "program_adi": "The Best Bodybuilding Shoulder Workout",
+        "program_detaylari": {
+            "program_adi": "The Best Bodybuilding Shoulder Workout",
+            "hedef_kitle": [
+                "Beginner",
+                "Intermediate",
+                "Advanced"
+            ],
+            "egzersizler": [
+                {
+                    "ad": "Dumbbell Overhead Press",
+                    "set": 3,
+                    "tekrar": "6"
+                },
+                {
+                    "ad": "Dumbbell Lateral Raise",
+                    "set": 3,
+                    "tekrar": "12"
+                },
+                {
+                    "ad": "Resistance Band Face Pull",
+                    "set": 3,
+                    "tekrar": "15"
+                },
+                {
+                    "ad": "Arnold Press",
+                    "set": 3,
+                    "tekrar": "6,8,12-15"
+                },
+                {
+                    "ad": "Dumbbell Hex Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable Lateral Raise",
+                    "set": 4,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Dumbbell Y-Raise",
+                    "set": 2,
+                    "tekrar": "15"
+                },
+                {
+                    "ad": "Resistance Band Pull-Apart",
+                    "set": 2,
+                    "tekrar": "failure"
+                },
+                {
+                    "ad": "Cable Lateral Raise",
+                    "set": 2,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Seated Neutral-Grip Dumbbell Overhead Press",
+                    "set": 4,
+                    "tekrar": "15,12,10,8"
+                },
+                {
+                    "ad": "Front Raise",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Cambered Bar Upright Row",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Face Pull",
+                    "set": 2,
+                    "tekrar": "20"
+                },
+                {
+                    "ad": "Cable Rear Flye",
+                    "set": 2,
+                    "tekrar": "20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/powerbuilding-workout-routine/",
+        "program_adi": "10-Week Powerbuilding Program",
+        "program_detaylari": {
+            "program_adi": "10-Week Powerbuilding Program",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat Hypertrophy",
+                    "set": 4,
+                    "tekrar": "8"
+                },
+                {
+                    "ad": "Bench Press Hypertrophy",
+                    "set": 5,
+                    "tekrar": "7-8"
+                },
+                {
+                    "ad": "Deadlift Hypertrophy",
+                    "set": 4,
+                    "tekrar": "5-6"
+                },
+                {
+                    "ad": "Overhead Press Hypertrophy",
+                    "set": 6,
+                    "tekrar": "6-7"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-egg-white-protein-powder/",
+        "program_adi": "Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Fitness Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kolların Gücü",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuzlarınızın Gücü",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Göbek Egzersizleri",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/etiket/kas-gelistirme/",
+        "program_adi": "Kadınlar İçin Vücut Geliştirme Programı",
+        "program_detaylari": {
+            "program_adi": "Kadınlar İçin Vücut Geliştirme Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bent Over Row",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Pull-up",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Push-up",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Dumbbell Lateral Raise",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Bicep Curl",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Triceps Dips",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/cable-leg-workouts/",
+        "program_adi": "Cable Leg Workout for Beginners",
+        "program_detaylari": {
+            "program_adi": "Cable Leg Workout for Beginners",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Belt Squat",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Straight-Leg Hip Extension",
+                    "set": 3,
+                    "tekrar": "12 per side"
+                },
+                {
+                    "ad": "Cable Pull-Through",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Unilateral Cable Kickback",
+                    "set": 3,
+                    "tekrar": "12 per side"
+                },
+                {
+                    "ad": "Unilateral Cable Leg Curl",
+                    "set": 3,
+                    "tekrar": "12 per side"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/lat-pulldown/",
+        "program_adi": "Lat Pulldown",
+        "program_detaylari": {
+            "program_adi": "Lat Pulldown",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Lat Pulldown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Wide-Grip Lat Pulldown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Underhand Lat Pulldown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Parallel-Grip Lat Pulldown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Straight-Arm Lat Pulldown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/full-body-kettlebell-workout/",
+        "program_adi": "The Best Full-Body Kettlebell Workout",
+        "program_detaylari": {
+            "program_adi": "The Best Full-Body Kettlebell Workout",
+            "hedef_kitle": "Beginners",
+            "egzersizler": [
+                {
+                    "ad": "Hardstyle Plank",
+                    "set": 2,
+                    "tekrar": "30 seconds"
+                },
+                {
+                    "ad": "Suitcase March Left",
+                    "set": 2,
+                    "tekrar": "30 seconds"
+                },
+                {
+                    "ad": "Suitcase March Right",
+                    "set": 2,
+                    "tekrar": "30 seconds"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 2,
+                    "tekrar": "12"
+                },
+                {
+                    "ad": "Dead-Stop Goblet Clean",
+                    "set": 2,
+                    "tekrar": "12"
+                },
+                {
+                    "ad": "Goblet Squat",
+                    "set": 2,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Goblet Press",
+                    "set": 2,
+                    "tekrar": "8-10"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/",
+        "program_adi": "Triceps Exercises",
+        "program_detaylari": {
+            "program_adi": "Triceps Exercises",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Triceps Dips",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Overhead Triceps Extension",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Tricep Pushdown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Close-Grip Pushup",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Rope Pull-Downs",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/how-to-build-muscle/",
+        "program_adi": "Muscle Building Program",
+        "program_detaylari": {
+            "program_adi": "Muscle Building Program",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Squats",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Deadlifts",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bicep Curls",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Tricep Dips",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Pull-Ups",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Push-Ups",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-cable-machines/",
+        "program_adi": "Kablon Makineleri Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Kablon Makineleri Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Lat Pulldown",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bicep Curls",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Tricep Pushdowns",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Pec Deck Flyes",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Seated Rows",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/fitness-uygulama/",
+        "program_adi": "Ağırsağlam Fitness Uygulaması",
+        "program_detaylari": {
+            "program_adi": "Ağırsağlam Fitness Uygulaması",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kaslar Üzerine Tıklayın",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Filtreleme Özelliği ile Antrenman",
+                    "set": 4,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Detaylı Rehberler İle Antrenman",
+                    "set": 5,
+                    "tekrar": "8-10"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/yeni-baslayanlar-icin-fitness/",
+        "program_adi": "Yeni Başlayanlar için Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Yeni Başlayanlar için Fitness Programı",
+            "hedef_kitle": "Başlangıç Seviyesi",
+            "egzersizler": [
+                {
+                    "ad": "Kol Bantları ile Omuz Geriye Çekme",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Bacak Kırma Makinesi",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Kabartma Pres",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Dambıl Omuz Çekme",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Bacak Kırma Makinesi",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/bodyweight-workout-deadlift-strength/",
+        "program_adi": "Deadlift Strength Improvement",
+        "program_detaylari": {
+            "program_adi": "Deadlift Strength Improvement",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Deadlift Reverse Fly",
+                    "set": 4,
+                    "tekrar": "12"
+                },
+                {
+                    "ad": "Tripod Torso Rotation",
+                    "set": 4,
+                    "tekrar": "8 per side"
+                },
+                {
+                    "ad": "T-Spine Tabletop Crunches",
+                    "set": 4,
+                    "tekrar": "15 per side"
+                },
+                {
+                    "ad": "Prone Shoulder Presses",
+                    "set": 4,
+                    "tekrar": "15"
+                },
+                {
+                    "ad": "Scapular Wall Slides",
+                    "set": 4,
+                    "tekrar": "20"
+                },
+                {
+                    "ad": "Single-Leg Deadlift Into Knee Raise",
+                    "set": 4,
+                    "tekrar": "12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/full-body-vs-split/",
+        "program_adi": "Full Body Antrenman",
+        "program_detaylari": {
+            "program_adi": "Full Body Antrenman",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Deadlift",
+                    "set": 3,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Split Squat",
+                    "set": 3,
+                    "tekrar": "8"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 5,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Barfiks",
+                    "set": 3,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Biceps Curl",
+                    "set": 3,
+                    "tekrar": "12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-wrist-wraps/",
+        "program_adi": "Wrist Wraps Fitness Program",
+        "program_detaylari": {
+            "program_adi": "Wrist Wraps Fitness Program",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Wrist Support",
+                    "set": 3,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Grip Strengthening",
+                    "set": 2,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Flexibility Exercises",
+                    "set": 2,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/kol-kasi-icin-egzersizler/",
+        "program_adi": "Kol Kası Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Kol Kası Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Barbell Curl (Geniş Tutuş)",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbell İncline Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Chip Up Preacher Curl (Geniş Tutuş – Dar Tutuş)",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barbell Reverse Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Hammer Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Concentration Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Close Grip Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Ağırlıklı Dips",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbell Kickback",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Rope Pussdown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Lying Barbell Triceps Extensions",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/deadlift/",
+        "program_adi": "Deadlift",
+        "program_detaylari": {
+            "program_adi": "Deadlift",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Conventional Barbell Deadlift",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Stiff-Leg Deadlift",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Rack Pull",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Deficit Deadlift",
+                    "set": null,
+                    "tekrar": null
+                },
+                {
+                    "ad": "Sumo Deadlift",
+                    "set": null,
+                    "tekrar": null
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/karin-kasi/",
+        "program_adi": "Karın Kası Programı",
+        "program_detaylari": {
+            "program_adi": "Karın Kası Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Abs Wheel Rollout",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Hanging Leg Raise",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Twisting Hanging Leg Raise",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Plank",
+                    "set": 3,
+                    "tekrar": "30-60 saniye"
+                },
+                {
+                    "ad": "Incline Reverse Crunch",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Mountain Climber Exercise",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Side Plank",
+                    "set": 3,
+                    "tekrar": "30-60 saniye her yan"
+                },
+                {
+                    "ad": "Wood Chopper veya Oblique Twist",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Stomach Vaccuum",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Prone Cobra",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-air-rowing-machines/",
+        "program_adi": "Air Rowing Machine Workout",
+        "program_detaylari": {
+            "program_adi": "Air Rowing Machine Workout",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Air Rowing",
+                    "set": 3,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "High knees",
+                    "set": 2,
+                    "tekrar": "30"
+                },
+                {
+                    "ad": "Mountain climbers",
+                    "set": 2,
+                    "tekrar": "45"
+                },
+                {
+                    "ad": "Push-ups",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Plank",
+                    "set": 1,
+                    "tekrar": "60"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-exercise-bikes-for-seniors/",
+        "program_adi": "Senior Exercise Bike Program",
+        "program_detaylari": {
+            "program_adi": "Senior Exercise Bike Program",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Recumbent Bike",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Spin Bike",
+                    "set": 4,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Air Bike",
+                    "set": 2,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Folding Bike",
+                    "set": 3,
+                    "tekrar": "12-14"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-ab-exercises/",
+        "program_adi": "Core Strengthening Program",
+        "program_detaylari": {
+            "program_adi": "Core Strengthening Program",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Ab Rollout",
+                    "set": 2,
+                    "tekrar": "5-10"
+                },
+                {
+                    "ad": "Weighted Plank",
+                    "set": 3,
+                    "tekrar": "20 saniye"
+                },
+                {
+                    "ad": "Hollow Hold",
+                    "set": 2,
+                    "tekrar": "10-20 saniye"
+                },
+                {
+                    "ad": "Cable Crunch",
+                    "set": 3,
+                    "tekrar": "8-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/bodybuilding-leg-workout/",
+        "program_adi": "Beginner Bodybuilding Leg Workout",
+        "program_detaylari": {
+            "program_adi": "Beginner Bodybuilding Leg Workout",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Goblet Squat",
+                    "set": 3,
+                    "tekrar": "8"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 3,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Step-Up",
+                    "set": 2,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Leg Extension",
+                    "set": 1,
+                    "tekrar": "15"
+                },
+                {
+                    "ad": "Leg Curl",
+                    "set": 1,
+                    "tekrar": "15"
+                },
+                {
+                    "ad": "Calf Raise",
+                    "set": 3,
+                    "tekrar": "10"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/bodybuilding-workout-plan/",
+        "program_adi": "Bodybuilding Training Plan",
+        "program_detaylari": {
+            "program_adi": "Bodybuilding Training Plan",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Dumbbell Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barbell Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Incline/Decline Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable/Machine Flye",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Weighted/Machine Dip",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell/Barbell Row",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable/Machine Row",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable/Machine Pulldown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell Pullover",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barbell/Cable Shrug",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barbell/Cable High Pull",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable Straight-Arm Pulldown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Back Extension/Good Morning",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barbell/Dumbbell Strict Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell Arnold Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell/Cable Front Raise",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell/Cable Lateral Raise",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell Hex Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell/Cable Rear Flye",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable Face Pull",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barbell Back Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barbell Front Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Leg Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Hack Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Romanian Deadlift",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bulgarian Split Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Hip Thrust",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Machine Leg Extension/Leg Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barbell/Machine Calf Raise",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Nordic Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cyclist Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barbell/Dumbbell Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Preacher Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Hammer Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Skull Crusher",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable Pressdown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable Kickback",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bodyweight or Weighted Dip",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Wrist Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Plate Pinch",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Cable/Weighted Crunch",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Hanging Leg Raise",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Jackknife Ab Wheel Rollout",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Weighted Plank",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell Side Bend",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Decline Sit-Up",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/nutrition-for-bulking/",
+        "program_adi": "How to Bulk: The Ultimate Guide to Gaining Size",
+        "program_detaylari": {
+            "program_adi": "How to Bulk: The Ultimate Guide to Gaining Size",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Pull-up",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-weight-sleds/",
+        "program_adi": "Kuvvet ve Dayanıklılık Antrenmanı",
+        "program_detaylari": {
+            "program_adi": "Kuvvet ve Dayanıklılık Antrenmanı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Sled Yürüyüşü",
+                    "set": 3,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Sled Çekme",
+                    "set": 4,
+                    "tekrar": "8-12"
+                },
+                {
+                    "ad": "Sled İtme",
+                    "set": 3,
+                    "tekrar": "10-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/category/best-strength-equipment/",
+        "program_adi": "Garage Gym Setup",
+        "program_detaylari": {
+            "program_adi": "Garage Gym Setup",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Pull-Up",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Push-Up",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/weightlifting/",
+        "program_adi": "Barbell Warm-Up",
+        "program_detaylari": {
+            "program_adi": "Barbell Warm-Up",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Güzel Kullanım (Clean & Jerk)",
+                    "set": 3,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Kolay Kullanım (Clean & Jerk)",
+                    "set": 3,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Güzel Kullanım (Snatch)",
+                    "set": 3,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Kolay Kullanım (Snatch)",
+                    "set": 3,
+                    "tekrar": "5-7"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-bcaas-for-women/",
+        "program_adi": "BCAA Takviyeleri İçin Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "BCAA Takviyeleri İçin Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kardiyo Egzersizi",
+                    "set": 3,
+                    "tekrar": "30-45"
+                },
+                {
+                    "ad": "Ateş Topu (Plank)",
+                    "set": 3,
+                    "tekrar": "1 dakika"
+                },
+                {
+                    "ad": "Bacak Kaldırma",
+                    "set": 4,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Kolları Güçlendirme (Push-up)",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omurga Hareketi (Yoga pozisyonları)",
+                    "set": 3,
+                    "tekrar": "1 dakika"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/farmers-carry-workouts-fat-loss/",
+        "program_adi": "Farmer's Carry Workouts for Fat Loss",
+        "program_detaylari": {
+            "program_adi": "Farmer's Carry Workouts for Fat Loss",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "10-Minute Carry",
+                    "set": 1,
+                    "tekrar": "10 dakika"
+                },
+                {
+                    "ad": "Carry and Swing",
+                    "set": 1,
+                    "tekrar": "8-12 tekrar, 40 yarda swing ve carry"
+                },
+                {
+                    "ad": "Turkish Get Up/Overhead Carry",
+                    "set": 1,
+                    "tekrar": "10 dakika veya kadar verilen out"
+                },
+                {
+                    "ad": "Double Kettlebell Front Squat/Farmer’s Carry",
+                    "set": 8,
+                    "tekrar": "Her turda 8 front squat, 40 yarda carry"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/squat-nasil-yapilir/",
+        "program_adi": "Squat Egzersiz Programı",
+        "program_detaylari": {
+            "program_adi": "Squat Egzersiz Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Air Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Wall Squat",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Goblet Squat",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Barbell Squat (Low Bar)",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Barbell Squat (High Bar)",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/bodybuilding/",
+        "program_adi": "Bodybuilding Programı",
+        "program_detaylari": {
+            "program_adi": "Bodybuilding Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kollar",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Göğüs",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omurga",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacaklar",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-workout-apps/",
+        "program_adi": "Future Online Personal Training",
+        "program_detaylari": {
+            "program_adi": "Future Online Personal Training",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Bodyweight Exercises",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Yoga Mat Exercises",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Free Weights Exercises",
+                    "set": 5,
+                    "tekrar": "8-10"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/dumbbell-ab-workout/",
+        "program_adi": "The Best Dumbbell Ab Workout for Beginners",
+        "program_detaylari": {
+            "program_adi": "The Best Dumbbell Ab Workout for Beginners",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Dumbbell Bicycle Crunch",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell Plank Row",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell Woodchopper",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/kettlebell-strength-workout/",
+        "program_adi": "The Best Kettlebell Strength Workout",
+        "program_detaylari": {
+            "program_adi": "The Best Kettlebell Strength Workout",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Z Press",
+                    "set": 4,
+                    "tekrar": "3 per side"
+                },
+                {
+                    "ad": "Kettlebell Renegade Row",
+                    "set": 4,
+                    "tekrar": "8-10 per side"
+                },
+                {
+                    "ad": "Split Squat",
+                    "set": 4,
+                    "tekrar": "8 per side"
+                },
+                {
+                    "ad": "Cossack Squat",
+                    "set": 4,
+                    "tekrar": "8 per side"
+                },
+                {
+                    "ad": "Forward Into Reverse Lunge",
+                    "set": 4,
+                    "tekrar": "10 per side"
+                },
+                {
+                    "ad": "Kettlebell Swing",
+                    "set": 4,
+                    "tekrar": "12"
+                },
+                {
+                    "ad": "Kettlebell Windmill",
+                    "set": 4,
+                    "tekrar": "5 per side"
+                },
+                {
+                    "ad": "Turkish Get-Up",
+                    "set": 3,
+                    "tekrar": "per side"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/find-1-rep-max/",
+        "program_adi": "Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Fitness Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kollar Bükme",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Kırma",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Göğüs Çekme",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/5-3-1-program/",
+        "program_adi": "Jim Wendler's 5/3/1 Workout Program",
+        "program_detaylari": {
+            "program_adi": "Jim Wendler's 5/3/1 Workout Program",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-compression-boots/",
+        "program_adi": "Recovery Program",
+        "program_detaylari": {
+            "program_adi": "Recovery Program",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Hyperice Normatec Elite",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                },
+                {
+                    "ad": "ReAthlete Air-C Full Leg Compression Massager",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-rowing-machine/",
+        "program_adi": "Karbon Dioksit (CO2) Azaltma ve Kardiyovasküler Dayanıklılık",
+        "program_detaylari": {
+            "program_adi": "Karbon Dioksit (CO2) Azaltma ve Kardiyovasküler Dayanıklılık",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Karbon Dioksit (CO2) Azaltma",
+                    "set": 3,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Karbon Dioksit (CO2) Azaltma",
+                    "set": 3,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Karbon Dioksit (CO2) Azaltma",
+                    "set": 3,
+                    "tekrar": "10-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/crossfit/",
+        "program_adi": "CrossFit Basics",
+        "program_detaylari": {
+            "program_adi": "CrossFit Basics",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Box Jumps",
+                    "set": 3,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Thrusters",
+                    "set": 4,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Weighted Carries",
+                    "set": 3,
+                    "tekrar": "20-30 meter"
+                },
+                {
+                    "ad": "Squats",
+                    "set": 5,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Snatches",
+                    "set": 4,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Clean & Jerks",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Handstands",
+                    "set": 2,
+                    "tekrar": "30 saniye"
+                },
+                {
+                    "ad": "Pull-Ups",
+                    "set": 4,
+                    "tekrar": "8-10"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/magaza/",
+        "program_adi": "SWOLE Hipertrofi: Maksimum Kas Gelişim Programı",
+        "program_detaylari": {
+            "program_adi": "SWOLE Hipertrofi: Maksimum Kas Gelişim Programı",
+            "hedef_kitle": "Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Deadlift",
+                    "set": 4,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 4,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 4,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Bicep Curl",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Tricep Dips",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Squat Jump",
+                    "set": 3,
+                    "tekrar": "8-10"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://newsletter.barbend.com/",
+        "program_adi": "4 Functional Fitness Workouts",
+        "program_detaylari": {
+            "program_adi": "4 Functional Fitness Workouts",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Push-up",
+                    "set": 3,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Pull-up",
+                    "set": 3,
+                    "tekrar": "8-12"
+                },
+                {
+                    "ad": "Lunge",
+                    "set": 3,
+                    "tekrar": "12-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/5x5-workout/",
+        "program_adi": "5x5 Workout Program",
+        "program_detaylari": {
+            "program_adi": "5x5 Workout Program",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Power Clean or Barbell Row",
+                    "set": 5,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 10,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 10,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Power Clean or Barbell Row",
+                    "set": 5,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Incline Bench Press",
+                    "set": 10,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 5,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Power Clean or Barbell Row",
+                    "set": 5,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 10,
+                    "tekrar": "10"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 5,
+                    "tekrar": "5"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-vibrating-massage-rollers/",
+        "program_adi": "Vibrating Massage Roller Antrenmanı",
+        "program_detaylari": {
+            "program_adi": "Vibrating Massage Roller Antrenmanı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kas gevşetme",
+                    "set": 1,
+                    "tekrar": "5-10"
+                },
+                {
+                    "ad": "Vibrasyonlu masaj rolleri kullanımı",
+                    "set": 3,
+                    "tekrar": "10-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-jump-ropes/",
+        "program_adi": "Jump Rope Fitness Program",
+        "program_detaylari": {
+            "program_adi": "Jump Rope Fitness Program",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Double Unders",
+                    "set": 3,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Speed Jumps",
+                    "set": 2,
+                    "tekrar": "30-40"
+                },
+                {
+                    "ad": "Single Jumps",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/training/",
+        "program_adi": "Calisthenics Training",
+        "program_detaylari": {
+            "program_adi": "Calisthenics Training",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Push-Up",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Pull-Up",
+                    "set": 4,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Dips",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Squats",
+                    "set": 4,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-workout-streaming-services/",
+        "program_adi": "6 Best Workout Streaming Services",
+        "program_detaylari": {
+            "program_adi": "6 Best Workout Streaming Services",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "CrossFit Classes",
+                    "set": 1,
+                    "tekrar": "Var"
+                },
+                {
+                    "ad": "Strength-and-Cardio Programs",
+                    "set": 10,
+                    "tekrar": "Var"
+                },
+                {
+                    "ad": "High Intensity Training, Muscle Building, Barre, Pregnancy and Post-natal, Exercise, Yoga, Pilates",
+                    "set": 1,
+                    "tekrar": "Var"
+                },
+                {
+                    "ad": "Olympic Weightlifting Moves",
+                    "set": 1,
+                    "tekrar": "Var"
+                },
+                {
+                    "ad": "Strength focused, Running, Yoga, Meditation",
+                    "set": 1,
+                    "tekrar": "Var"
+                },
+                {
+                    "ad": "Over 20 different types of workouts and more than 10,000 on demand classes",
+                    "set": 1,
+                    "tekrar": "Var"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-treadmill-apps/",
+        "program_adi": "Treadmill Egzersiz Programı",
+        "program_detaylari": {
+            "program_adi": "Treadmill Egzersiz Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Yürüyüş",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                },
+                {
+                    "ad": "Kol Kırıcılar (Bicep Curl)",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Kırıcılar (Shoulder Press)",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Göbek Egzersizleri",
+                    "set": 2,
+                    "tekrar": "15-20"
+                },
+                {
+                    "ad": "Kalça Hareketleri",
+                    "set": 2,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-budget-ellipticals/",
+        "program_adi": "Evde Kardiyo Egzersizleri",
+        "program_detaylari": {
+            "program_adi": "Evde Kardiyo Egzersizleri",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Elliptical Makinesi Kullanımı",
+                    "set": 30,
+                    "tekrar": "1 dakika"
+                },
+                {
+                    "ad": "Kardiyo Egzersizi",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Yürüyüş veya Koşu",
+                    "set": 20,
+                    "tekrar": "30-45 dakika"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/beginners-guide-to-the-gym/",
+        "program_adi": "Beginner Program",
+        "program_detaylari": {
+            "program_adi": "Beginner Program",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Back Squat",
+                    "set": 4,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 3,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 4,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Pull-ups",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Push-ups",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Lunges",
+                    "set": 3,
+                    "tekrar": "12-15"
+                },
+                {
+                    "ad": "Bicep Curls",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Triceps Pushdowns",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/kategori/hesaplama/",
+        "program_adi": "Yeni Başlayanlar için Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Yeni Başlayanlar için Fitness Programı",
+            "hedef_kitle": "Başlangıç Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kaburgalar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bacak Kırıcılar",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Kütleleri",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Göbek Egzersizleri",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-ellipticals/",
+        "program_adi": "Evde Kullanılabilir Elliptical Makineleri",
+        "program_detaylari": {
+            "program_adi": "Evde Kullanılabilir Elliptical Makineleri",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "NordicTrack AirGlide 14i",
+                    "set": 1,
+                    "tekrar": "26-30"
+                },
+                {
+                    "ad": "BowFlex Max Trainer M6",
+                    "set": 1,
+                    "tekrar": "16-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://therippedreport.barbend.com/",
+        "program_adi": "5 Best Exercises to Build Your Biceps Peak",
+        "program_detaylari": {
+            "program_adi": "5 Best Exercises to Build Your Biceps Peak",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Bicep Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Preacher Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Hammer Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Zottman Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Incline Dumbbell Curl",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/at-home-workouts/",
+        "program_adi": "Kettlebell Workout for Strength",
+        "program_detaylari": {
+            "program_adi": "Kettlebell Workout for Strength",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Double Kettlebell Goblet Squat",
+                    "set": 4,
+                    "tekrar": "5-8"
+                },
+                {
+                    "ad": "Alternating Kettlebell Floor Press",
+                    "set": 4,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Front-Rack 1 ½ Rep Bulgarian Split Squat",
+                    "set": 3,
+                    "tekrar": "6-8 per side"
+                },
+                {
+                    "ad": "Kettlebell Suitcase Deadlift",
+                    "set": 3,
+                    "tekrar": "8-10 per side"
+                },
+                {
+                    "ad": "One-Arm Kettlebell Row",
+                    "set": 4,
+                    "tekrar": "8-10 per side"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/fitness-antrenman-programlari/",
+        "program_adi": "Ağırsağlam 5×5 Fitness Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Ağırsağlam 5×5 Fitness Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Squat",
+                    "set": 5,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 5,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Overhead Press",
+                    "set": 5,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Ağırlıklı Barfiks",
+                    "set": 5,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 1,
+                    "tekrar": "5"
+                },
+                {
+                    "ad": "Bentover Row",
+                    "set": 5,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "Ağırlıklı Dips",
+                    "set": 5,
+                    "tekrar": "5-7"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/urun/agirsaglam-kahve/",
+        "program_adi": "Kahve ile Güçlenme Programı",
+        "program_detaylari": {
+            "program_adi": "Kahve ile Güçlenme Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kahve Tüketimi",
+                    "set": 1,
+                    "tekrar": "Her Gün"
+                },
+                {
+                    "ad": "Ağırsıklet Egzersizleri",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/kategori/programlar",
+        "program_adi": "Yeni Başlayanlar için Fitness",
+        "program_detaylari": {
+            "program_adi": "Yeni Başlayanlar için Fitness",
+            "hedef_kitle": "Başlangıç",
+            "egzersizler": [
+                {
+                    "ad": "5x5 Antrenman",
+                    "set": 5,
+                    "tekrar": "5-7"
+                },
+                {
+                    "ad": "3x5 Antrenman",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Ağırsağlam Atlet Programı",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://www.agirsaglam.com/deadlift-nasil-yapilir/",
+        "program_adi": "Deadlift Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Deadlift Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Deadlift",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Good Morning",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Romanian Deadlift",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Sumo Deadlift",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bent Over Row",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-dumbbells/",
+        "program_adi": "Dumbbell Antrenman Programı",
+        "program_detaylari": {
+            "program_adi": "Dumbbell Antrenman Programı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Kol Dışı Omuz Presi",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Omuz Gücü Yükseltme",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dambıl Küpeçesi",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell Yatay Pres",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Dumbbell Kullanarak Omuz Geriye Dönüşü",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-home-gyms/",
+        "program_adi": "Home Gym Program",
+        "program_detaylari": {
+            "program_adi": "Home Gym Program",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Lat Pulldown",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bench Press",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Squat",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Deadlift",
+                    "set": 3,
+                    "tekrar": "6-8"
+                },
+                {
+                    "ad": "Bicep Curl",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Tricep Dips",
+                    "set": 3,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-online-workout-programs/",
+        "program_adi": "Shred",
+        "program_detaylari": {
+            "program_adi": "Shred",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Interval Training",
+                    "set": 1,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Strength Training",
+                    "set": 4,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Functional Training",
+                    "set": 3,
+                    "tekrar": "15-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/exercise-guides/",
+        "program_adi": "Fitness Programı",
+        "program_detaylari": {
+            "program_adi": "Fitness Programı",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Mobility Exercises",
+                    "set": 3,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Biceps Curls",
+                    "set": 4,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Triceps Dips",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Squats",
+                    "set": 4,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Deadlifts",
+                    "set": 4,
+                    "tekrar": "10-12"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/beginner-pull-up-guide/",
+        "program_adi": "The Ultimate Beginner Pull-Up Guide",
+        "program_detaylari": {
+            "program_adi": "The Ultimate Beginner Pull-Up Guide",
+            "hedef_kitle": "Başlangıç",
+            "egzersizler": [
+                {
+                    "ad": "Pull-Up",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Lat Pulldown",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Bicep Curl",
+                    "set": 3,
+                    "tekrar": "10-12"
+                },
+                {
+                    "ad": "Push-Up",
+                    "set": 3,
+                    "tekrar": "10-15"
+                },
+                {
+                    "ad": "Dips",
+                    "set": 3,
+                    "tekrar": "10-15"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/best-chest-exercises/",
+        "program_adi": "Kol Omuz Antrenmanı",
+        "program_detaylari": {
+            "program_adi": "Kol Omuz Antrenmanı",
+            "hedef_kitle": "Başlangıç/Orta Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Düz Yataklı Dambıl Pres",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Yükseltilmiş Yataklı Dambıl Pres",
+                    "set": 3,
+                    "tekrar": "8-12"
+                },
+                {
+                    "ad": "Aşağı Yataklı Dambıl Pres",
+                    "set": 3,
+                    "tekrar": "8-10"
+                },
+                {
+                    "ad": "Dip",
+                    "set": 2,
+                    "tekrar": "12-20"
+                }
+            ]
+        }
+    },
+    {
+        "kaynak_url": "https://barbend.com/treadmill-walking-workouts/",
+        "program_adi": "The Best 5 Treadmill Walking Workouts",
+        "program_detaylari": {
+            "program_adi": "The Best 5 Treadmill Walking Workouts",
+            "hedef_kitle": "Başlangıç/Orta/İleri Seviye",
+            "egzersizler": [
+                {
+                    "ad": "Simple Walking Workout",
+                    "set": 1,
+                    "tekrar": "30-60 dakika"
+                },
+                {
+                    "ad": "Interval Walking Workout",
+                    "set": 3,
+                    "tekrar": "15-25 dakika (toplam)"
+                },
+                {
+                    "ad": "12-3-30 Workout",
+                    "set": 1,
+                    "tekrar": "30 dakika"
+                },
+                {
+                    "ad": "Interval Incline Walking Workout",
+                    "set": 3,
+                    "tekrar": "15-30 dakika (toplam)"
+                },
+                {
+                    "ad": "Endurance Walking Workout",
+                    "set": 1,
+                    "tekrar": "Detaylar yok"
+                }
+            ]
+        }
+    }
+]
